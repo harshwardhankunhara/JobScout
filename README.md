@@ -22,4 +22,4 @@ To get started with this project locally:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/jobscout-frontend.git
+   git clone https://github.com/harshwardhankunhara/JobScout
